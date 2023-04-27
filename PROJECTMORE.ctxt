@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PROJECTMORE
+comment0.text=\r\n\ Snake\ Eyez.\r\n\ \r\n\ If\ the\ sum\r\n\ is\ 7\ or\ 11\ on\ the\ first\ roll,\ the\ player\ wins.\ If\ the\ sum\ is\ 2,\ 3\ or\ 12\ on\ the\ first\ roll\ the\ player\ loses.\r\n\ If\ the\ sum\ is\ 4,\ 5,\ 6,\ 8,\ 9\ or\ 10\ on\ the\ first\ roll,\ that\ sum\ becomes\ the\ player\u2019s\ \u201Cpoint\u201D.\ To\ win,\ a\r\n\ player\ must\ continue\ rolling\ the\ dice\ until\ the\ player\ rolls\ the\ point\ value.\ The\ player\ loses\ by\r\n\ rolling\ a\ 7\ before\ rolling\ the\ point.\r\n\r\n\ @Nikola\ Jocic\ Student\ ID\:\ 20200041\ email\:\ 20200041@student.act.edu\r\n\ @version\ 1.01\ Date\:\ 02/04/2021\r\n
+comment1.params=
+comment1.target=PROJECTMORE()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

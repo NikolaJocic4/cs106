@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WindowQuitter
+comment0.text=\r\n\ Window\ Quitter.\r\n\ \r\n\ Quits\ window\r\n\r\n\ @Nikola\ Jocic\ Student\ ID\:\ 20200041\ email\:\ 20200041@student.act.edu\r\n\ @version\ 1.01\ Date\:\ 02/04/2021\r\n
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=2
